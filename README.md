@@ -3,7 +3,7 @@
 
 ## _ Calculadora de gorjeta para divisão de até 20 pessoas,
 
-A [calculadora de gorjeta](https://main--sunny-chaja-87e493.netlify.app/) para divisão do valor unitário para grupos de até 20 pessoas fora desenvolvida em sua parté lógica somente no modulo JavaScript com edição de código já pré existentes do Html e CCS . Sob tutoria do [curso de Javascript](https://www.udemy.com/course/aprenda-javascript-em-7-dias) obtido na plataforma udemy. 
+A [calculadora de gorjeta](https://bit.ly/gorjetaSmart) para divisão do valor unitário para grupos de até 20 pessoas fora desenvolvida em sua parté lógica somente no modulo JavaScript com edição de código já pré existentes do Html e CCS . Sob tutoria do [curso de Javascript](https://www.udemy.com/course/aprenda-javascript-em-7-dias) obtido na plataforma udemy. 
 
 - Site Html 
 - CCS
